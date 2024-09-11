@@ -1,0 +1,48 @@
+https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.min.css
+
+
+ / مل تاثير االنص ملون /
+grident-text {
+  background-color: linear-gradient(to right, red, blue);
+  background-clip: text;
+  color: transparent;}
+
+
+  /  مشكله في الكود الاساسي  في فتح  واغلاق الاقوص  / __0
+
+* بربط اقسام الصفحه ب شريط المهام العلوي تذكر لا يوضع عليها # في  عنصر id 
+
+الفرق بين عمل الزرار ب buttom و علمها ب a 
+
+   FIXME:  انشاء كمبوننت جاهزه في حالت تكرارها امتر من مره 
+
+    <!-- /* start section  */ -->
+         <!-- <div class="section">
+            <div class="main-heading">
+                <h2>SERVICES</h2>
+                <p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Mauris 
+                    blandit aliquet elit, eget tincidunt.</p>
+            </div>
+         </div> -->
+    <!-- /* end  section */ -->
+
+
+             <!-- ! FIXME:  عمل القائمه يخاصيه list ul ي بدل من وضع ايكون لكل سطر  في قسم السيرفس -->
+         <!-- start Design  -->
+<!-- 
+            <div class="design">
+                <img src="" alt="">
+                <div class="slide">
+                    <div class="text">
+                    <h3 class="heading"></h3>
+                    <i class="fa-solid fa-tv"></i>
+                    <p></p>
+                    <i class="fa-solid fa-tv"></i>
+                    <p></p>
+                    <i class="fa-solid fa-tv"></i>
+                    <p></p>
+                    <i class="fa-solid fa-tv"></i>
+                    <p></p>
+                </div>
+                </div>
+            </div> -->
